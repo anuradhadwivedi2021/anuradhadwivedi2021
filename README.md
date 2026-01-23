@@ -12,7 +12,7 @@ I’m a **Computer Science student** passionate about **Web Development and Full
 I love learning by building projects and improving consistently.
 
 - 🔭 Working on **student-level web development projects**
-- 🌱 Learning **Frontend, Full Stack basics & Data Analysis tools**
+- 🌱 Learning **Frontend, Full Stack basics &  tools**
 - 👯 Open to **beginner-friendly collaborations**
 - 💬 Ask me about **Web Dev basics, projects & learning resources**
 - ⚡ Fun fact: *Consistency beats talent* 🚀
