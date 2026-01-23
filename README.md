@@ -33,7 +33,8 @@ I love learning by building projects and improving consistently.
 HTML • CSS • JavaScript • React  
 Java • Python • C • C++  
 Bootstrap • MySQL • MongoDB  
-Git • GitHub • Netlify • Vercel  
+Git • GitHub • Netlify • Vercel 
+
 
 ---
 
@@ -44,8 +45,5 @@ Git • GitHub • Netlify • Vercel
 
 ---
 
-## 👀 Profile Views  
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=anuradhadwivedi2021&color=12)
 
 ---
