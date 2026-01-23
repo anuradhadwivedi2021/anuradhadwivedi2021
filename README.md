@@ -1,4 +1,4 @@
-Ab ye me # 💫 About Me:
+💫 About Me:
 🎓 I’m a Computer Science student<br>Currently pursuing BCS (Computer Science) and building my skills step by step<br><br>🔭 I’m currently working on<br>Student-level web development projects using HTML, CSS, JavaScript , react & java / python<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly projects, mini projects, and learning-based collaborations<br><br>🌱 I’m currently learning<br>Frontend Development, Full Stack basics, and Data Analysis tools<br><br>💬 Ask me about<br>Web Development basics, student projects, learning resources, and coding practice<br><br>⚡ Fun fact<br>I believe consistency matters more than talent 🚀
 
 
