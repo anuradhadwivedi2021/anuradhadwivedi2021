@@ -1,5 +1,5 @@
 # 👩‍💻 Anuradha Dwivedi  
-**Computer Science (BCS) Student | Aspiring Web Developer**
+**Computer Science CS Student | Aspiring Web Developer**
 
 📍 India  
 🎯 Building strong fundamentals & real-world projects step by step
